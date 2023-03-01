@@ -7,12 +7,7 @@ public class PrintMassage : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print("Hi! This is my frist code using git!");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
